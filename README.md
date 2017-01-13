@@ -6,4 +6,5 @@
 
 1. 제일 기본이되는 Tensorflow API (https://www.tensorflow.org/api_docs/python/)
 2. Tensorflow Visual Debugger (https://github.com/ericjang/tdb)
-3. 
+3. Hvass-Labs Tensorflow Tutorial (https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+4. Another Tensorflow Tutorial (https://github.com/nlintz/TensorFlow-Tutorials)
