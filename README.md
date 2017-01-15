@@ -4,7 +4,7 @@
 
 # Tensorflow_Tutorial
 
-0. 먼저 텐서플로우를 설치하자 (https://marcnu.github.io/2016-08-17/Tensorflow-v0.10-installed-from-scratch-Ubuntu-16.04-CUDA8.0RC-cuDNN5.1-1080GTX/) 
+먼저 텐서플로우를 설치하자 (https://marcnu.github.io/2016-08-17/Tensorflow-v0.10-installed-from-scratch-Ubuntu-16.04-CUDA8.0RC-cuDNN5.1-1080GTX/) 
 1. 텐서플로우를 사용하기에 앞서 필요한 기본변수들 = [Variable, Constant, Placeholder]
 2. 텐서플로우로 기본적인 Linear function을 만들어보자
 
