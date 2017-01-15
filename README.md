@@ -1,6 +1,6 @@
 # What is Tensorflow?
 
-0. 텐서플로우란 무엇인가? (공식사이트번역 -> https://gist.github.com/haje01/202ac276bace4b25dd3f)
+텐서플로우란 무엇인가? (공식사이트번역 -> https://gist.github.com/haje01/202ac276bace4b25dd3f)
 
 # Tensorflow_Tutorial
 
