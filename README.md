@@ -14,3 +14,4 @@
 2. Tensorflow Visual Debugger (https://github.com/ericjang/tdb)
 3. Hvass-Labs Tensorflow Tutorial (https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 4. Another Tensorflow Tutorial (https://github.com/nlintz/TensorFlow-Tutorials)
+5. 텐서플로우 코드를 더 간단하게 바꿔주는 tf.slim (https://github.com/tensorflow/tensorflow/blob/a304537954a865752ad1b18461e6bd67b36082db/tensorflow/contrib/slim/README.md)
