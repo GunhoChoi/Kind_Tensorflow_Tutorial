@@ -8,6 +8,7 @@
 
 1. 텐서플로우를 사용하기에 앞서 필요한 기본변수들 = [Variable, Constant, Placeholder]
 2. 텐서플로우로 기본적인 Linear function을 만들어보자 = [y=w*x+b]
+3. 그나저나 텐서플로우를 써야하는 이유는 무엇일까? = [only Numpy vs Numpy & Tensorflow]
 
 # Tensorflow Tools
 
