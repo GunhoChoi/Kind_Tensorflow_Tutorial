@@ -1,7 +1,8 @@
 # What is Tensorflow?
 
 - 텐서플로우란 무엇인가? (공식사이트번역 -> https://gist.github.com/haje01/202ac276bace4b25dd3f)
-- 먼저 텐서플로우를 설치하자 (https://marcnu.github.io/2016-08-17/Tensorflow-v0.10-installed-from-scratch-Ubuntu-16.04-CUDA8.0RC-cuDNN5.1-1080GTX/) 
+- 먼저 텐서플로우를 설치하자 (https://marcnu.github.io/2016-08-17/Tensorflow-v0.10-installed-from-scratch-Ubuntu-16.04-CUDA8.0RC-cuDNN5.1-1080GTX/)
+- 튜토리얼은 Tensorflow version r0.12 Ubuntu 16.04, GPU enabled, Python 3.5, CUDA toolkit 8.0, CuDNN v5인 상태로 작성하였습니다.
 
 # Tensorflow_Tutorial
 
