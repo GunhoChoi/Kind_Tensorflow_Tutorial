@@ -6,13 +6,13 @@
 
 # Tensorflow_Tutorial
 
-1. 텐서플로우를 사용하기에 앞서 필요한 기본 변수들 = [Variable, Constant, Placeholder]
-2. 텐서플로우로 기본적인 Linear function을 만들어보자 = [y=w*x+b]
-3. 그나저나 텐서플로우를 써야하는 이유는 무엇일까? = [only Numpy vs Numpy & Tensorflow]
-4. 그렇다면 이번엔 Convolutional Neural Network를 짜보자 = [tf.conv2d(), tf.max_pool()]
-5. 매번 학습시킬순 없으니까 학습시킨 모델을 저장하고 불러오는 방법을 알아보자 = [tf.train.Saver()]
-6. 모델이 깊어질수록 코드만으로 전체를 파악하기는 힘들다. 또한 정확도나 error를 시각화해서 보고싶다면? = [Tensorboard]
-7. 이미 학습된 유명한 모델들을 가져다 쓰고 싶을때는 어떻게 할까? [Pretrained_Models]
+1. 텐서플로우를 사용하기에 앞서 필요한 기본 변수들 = [ Variable, Constant, Placeholder ]
+2. 텐서플로우로 기본적인 Linear function을 만들어보자 = [ y=w*x+b ]
+3. 그나저나 텐서플로우를 써야하는 이유는 무엇일까? = [ only Numpy vs Numpy & Tensorflow ]
+4. 그렇다면 이번엔 Convolutional Neural Network를 짜보자 = [ tf.conv2d(), tf.max_pool() ]
+5. 매번 학습시킬순 없으니까 학습시킨 모델을 저장하고 불러오는 방법을 알아보자 = [ tf.train.Saver() ]
+6. 모델이 깊어질수록 코드만으로 전체를 파악하기는 힘들다. 또한 정확도나 error를 시각화해서 보고싶다면? = [ Tensorboard ]
+7. 이미 학습된 유명한 모델들을 가져다 쓰고 싶을때는 어떻게 할까? = [ Pretrained_Models ]
 
 # Tensorflow Tools
 
