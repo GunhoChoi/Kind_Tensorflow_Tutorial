@@ -10,7 +10,7 @@
 2. 텐서플로우로 기본적인 Linear function을 만들어보자 = [ y=w*x+b ]
 3. 그나저나 텐서플로우를 써야하는 이유는 무엇일까? = [ only Numpy vs Numpy & Tensorflow ]
 4. 그렇다면 이번엔 Convolutional Neural Network를 짜보자 = [ tf.conv2d(), tf.max_pool() ]
-5. 지나간것들을 기억하는 뉴럴넷 RNN을 짜보자 = [ tf.nn.rnn_cell() ]
+5. 지나간 것들을 기억하는 뉴럴넷 RNN을 짜보자 = [ tf.nn.rnn_cell() ]
 
 
 # Tensorflow Tools
